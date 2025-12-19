@@ -38,10 +38,17 @@ This design highlights different customer categories using **portrait cards with
 
 src/
 ├── components/
+
 │ ├── RightCard.jsx
+
 │ └── CardSection.jsx
+
 ├── data/
+
 │ └── users.js
+
 ├── App.jsx
+
 ├── main.jsx
+
 └── index.css
